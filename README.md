@@ -22,4 +22,4 @@ quasar dev
 ```bash
 quasar build
 ```
-[alt text](./screenshots/Auth.png?raw=true "Auth")
+[Screenshot](screenshots/Auth.png)
