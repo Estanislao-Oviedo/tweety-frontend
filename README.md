@@ -24,15 +24,21 @@ quasar build
 ```
 ## Auth
 <img src="screenshots/Auth.png" width=700>
+
 ## SignUp
 <img src="screenshots/Signup.png" width=700>
+
 ## Feed
 <img src="screenshots/Feed.png" width=700>
+
 ## A post
 <img src="screenshots/PizzaPost.png" width=700>
+
 ## Search
 <img src="screenshots/Search.png" width=700>
+
 ## Profile
 <img src="screenshots/Profile.png" width=700>
+
 ## Edit profile
 <img src="screenshots/Edit Profile.png" width=700>
