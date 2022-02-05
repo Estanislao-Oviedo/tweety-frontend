@@ -1,6 +1,12 @@
-# tweety (tweety)
+# tweety-frontend
 
-A Quasar Framework app
+Frontend for tweety
+
+Simple Frontend created using quasar and vue to show case tweety API  
+
+Currently hosted at http://tweety-front-end.herokuapp.com
+The hosted version only works on firefox because it lacks SSL certification to store HTTPOnly cookies
+
 
 ## Install the dependencies
 ```bash
@@ -16,6 +22,3 @@ quasar dev
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
